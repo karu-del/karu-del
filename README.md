@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @karu-del
-- 👀 I’m interested in Estonia FiveM server developing
-- 🌱 I’m currently learning .lua html and js
-- 📫 Discord karu#0690
+Aja neg hüppesse, aja neg hüppesse
